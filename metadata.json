@@ -1,0 +1,6 @@
+{
+  "name": "SF Studio",
+  "description": "Advanced SoundFont (SF2/SF3/SFZ) sampler, 16-step sequencer, 16 dynamic pads, mixer with parametric EQ, and USB/BLE MIDI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
